@@ -1,7 +1,6 @@
-#Introducción en Inteligencia Artificial
+# Introducción en Inteligencia Artificial
 
+ Este repositorio contiene prácticas de Inteligencia Artificial (IA) realizadas en Python.
 
-##Este repositorio contiene prácticas de Inteligencia Artificial (IA) realizadas en Python.
-
-#Requisitos
+# Requisitos
 Python 3.x
